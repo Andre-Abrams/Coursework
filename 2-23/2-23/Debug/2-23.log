@@ -1,0 +1,10 @@
+﻿Build started 3/2/2015 8:51:29 PM.
+     1>Project "C:\Users\Andre\Documents\School\CSCI\2-23\2-23\2-23.vcxproj" on node 2 (ClCompile target(s)).
+     1>ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "2-23.cpp"
+         2-23.cpp
+     1>Done Building Project "C:\Users\Andre\Documents\School\CSCI\2-23\2-23\2-23.vcxproj" (ClCompile target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.43

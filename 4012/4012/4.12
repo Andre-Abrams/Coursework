@@ -1,0 +1,27 @@
+# include<iostream>
+
+intmain( )
+
+using namespace std;
+
+return0 ;
+
+}
+
+for ( inti = 1 ; i <= 10 ; i ++)
+
+{ for ( intj = 1 ; j <= 10 ; j++)
+
+Exercise 5.12
+
+{
+
+}
+
+if( j <= 10 -i) cout<< “”;
+
+else
+
+cout<< “* ”;
+
+cout<< endl;

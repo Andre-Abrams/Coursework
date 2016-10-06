@@ -1,0 +1,14 @@
+﻿Build started 4/13/2015 1:44:10 PM.
+     1>Project "C:\Users\Andre\Documents\School\CSCI\4012\4012\4012.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\Andre\Documents\School\CSCI\4012\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\4.12.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       FinalizeBuildStatus:
+         Deleting file "Debug\4.12.unsuccessfulbuild".
+         Touching "Debug\4.12.lastbuildstate".
+     1>Done Building Project "C:\Users\Andre\Documents\School\CSCI\4012\4012\4012.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03

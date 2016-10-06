@@ -1,0 +1,20 @@
+﻿Build started 3/2/2015 3:56:47 PM.
+     1>Project "C:\Users\Andre\Documents\School\CSCI\2-20\2-20\2-20.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\2-20.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Andre\Documents\School\CSCI\2-20\Debug\2-20.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\2-20.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Andre\Documents\School\CSCI\2-20\Debug\2-20.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Andre\Documents\School\CSCI\2-20\Debug\2-20.lib" /MACHINE:X86 "Debug\2-20.obj"
+         LINK : C:\Users\Andre\Documents\School\CSCI\2-20\Debug\2-20.exe not found or not built by the last incremental link; performing full link
+         2-20.vcxproj -> C:\Users\Andre\Documents\School\CSCI\2-20\Debug\2-20.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Andre\Documents\School\CSCI\2-20\Debug\2-20.exe;#1" /manifest "Debug\2-20.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\2-20.unsuccessfulbuild".
+         Touching "Debug\2-20.lastbuildstate".
+     1>Done Building Project "C:\Users\Andre\Documents\School\CSCI\2-20\2-20\2-20.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.73
